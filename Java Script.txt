@@ -32,3 +32,25 @@ JavaScript에 재능이 있는 사람은 찾기 힘들다.
 
 기구를 아무리 잘 다뤄도 핵심을 모른다면 말짱꽝이다!!
 그 핵심이 바로 바닐라 자바스크립트라고 할 수 있다.
+
+
+# let, const, var
+
+* let
+=> block-scope
+let을 사용하면 var과 다르게 변수 재선언이 불가능하다.
+
+*const(=constant)
+=> 절대 바뀌지 않는 값 (상수)
+
+*var
+=> function-scope
+3년 전에는 이 변수밖에 없었다.
+모든 변수의 조상이라고 볼 수 있다.
+
+
+# Objects
+=> struct 같은 개념? 이라고 생각하면 편하다.
+{key : value, key1 : value2, ...}
+
+키값을 이용해 원하는 값을 가져올 수 있다.
